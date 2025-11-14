@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  flowgen:
+  - apiVersion: v2
+    appVersion: 0.15.0
+    created: "2025-11-14T13:02:09.0526171Z"
+    description: A Helm Chart for Flowgen
+    digest: c9b9bf484d41bb61e32eb37515e35bc142048e07c3eaa8a60279c2e80f286c88
+    keywords:
+    - flowgen
+    - data-activation
+    - workflows
+    - automation
+    - kubernetes
+    maintainers:
+    - email: hello@connve.com
+      name: The Flowgen Authors
+    name: flowgen
+    type: application
+    urls:
+    - https://connve-dev.github.io/helm/flowgen-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-11-14T13:02:09.052081257Z"
