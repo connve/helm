@@ -33,7 +33,7 @@ helm install my-flowgen ./charts/flowgen \
 
 ## Available Charts
 
-- **[flowgen](./charts/flowgen)** - Data activation with a blast 💥
+- **[flowgen](./charts/flowgen)**
 
 ## Configuration
 
