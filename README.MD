@@ -1,6 +1,4 @@
-# CONNVE Helm Charts
-
-This repository contains Helm charts for deploying CONNVE services on Kubernetes.
+# Helm charts for Kubernetes deployments
 
 ## Usage
 
@@ -64,9 +62,3 @@ helm install my-release charts/flowgen \
 ```bash
 helm package charts/flowgen
 ```
-
-## Releases
-
-Charts are automatically packaged and released to GitHub Pages when changes are pushed to the `main` branch.
-
-The Helm repository is available at: `https://helm.connve.com`
