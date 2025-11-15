@@ -7,7 +7,7 @@ This repository contains Helm charts for deploying CONNVE services on Kubernetes
 ### Add the Helm repository
 
 ```bash
-helm repo add connve https://connve-labs.github.io/helm
+helm repo add connve https://helm.connve.com
 helm repo update
 ```
 
@@ -69,4 +69,4 @@ helm package charts/flowgen
 
 Charts are automatically packaged and released to GitHub Pages when changes are pushed to the `main` branch.
 
-The Helm repository is available at: `https://connve-labs.github.io/helm`
+The Helm repository is available at: `https://helm.connve.com`

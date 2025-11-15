@@ -18,6 +18,6 @@ entries:
     name: flowgen
     type: application
     urls:
-    - https://connve-labs.github.io/helm/flowgen-0.1.0.tgz
+    - https://helm.connve.com/flowgen-0.1.0.tgz
     version: 0.1.0
 generated: "2025-11-15T18:08:01.617356927Z"
