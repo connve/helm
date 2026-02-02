@@ -3,7 +3,26 @@ entries:
   flowgen:
   - apiVersion: v2
     appVersion: 0.42.0
-    created: "2026-02-02T13:15:34.001756704Z"
+    created: "2026-02-02T16:21:00.363881568Z"
+    description: A Helm Chart for Flowgen
+    digest: 093d82767c6424ce9a67ca2ce7165eb69bb9acfbfb2a76df8bdc666877bca990
+    keywords:
+    - flowgen
+    - data-activation
+    - workflows
+    - automation
+    - kubernetes
+    maintainers:
+    - email: hello@connve.com
+      name: The Flowgen Authors
+    name: flowgen
+    type: application
+    urls:
+    - https://helm.connve.com/flowgen-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.42.0
+    created: "2026-02-02T16:21:00.363493579Z"
     description: A Helm Chart for Flowgen
     digest: 9718f3be91c6197067bafd65d4432b38a624c529ab6a01806fcebf28794a909d
     keywords:
@@ -20,4 +39,4 @@ entries:
     urls:
     - https://helm.connve.com/flowgen-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-02T13:15:34.001196495Z"
+generated: "2026-02-02T16:21:00.36285778Z"
