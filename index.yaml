@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   flowgen:
   - apiVersion: v2
-    appVersion: 0.51.0
-    created: "2026-02-12T02:07:02.033882998Z"
+    appVersion: 0.52.0
+    created: "2026-02-12T02:52:52.327017496Z"
     description: A Helm Chart for Flowgen
-    digest: 2b3587fa561a31a1eb219976053a5b2dec2238bc52d505fd054f6054531603d9
+    digest: 43697d0f9049407c9bfc517e42119ce252a989f7370b011356d9928bfb5f2251
     keywords:
     - flowgen
     - data-activation
@@ -22,7 +22,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.42.0
-    created: "2026-02-12T02:07:02.033493017Z"
+    created: "2026-02-12T02:52:52.326637505Z"
     description: A Helm Chart for Flowgen
     digest: 093d82767c6424ce9a67ca2ce7165eb69bb9acfbfb2a76df8bdc666877bca990
     keywords:
@@ -41,7 +41,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.42.0
-    created: "2026-02-12T02:07:02.033083039Z"
+    created: "2026-02-12T02:52:52.326228861Z"
     description: A Helm Chart for Flowgen
     digest: 9718f3be91c6197067bafd65d4432b38a624c529ab6a01806fcebf28794a909d
     keywords:
@@ -58,4 +58,4 @@ entries:
     urls:
     - https://helm.connve.com/flowgen-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-12T02:07:02.032513431Z"
+generated: "2026-02-12T02:52:52.325623319Z"
